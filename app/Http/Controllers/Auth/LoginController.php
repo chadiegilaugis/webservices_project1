@@ -40,4 +40,8 @@ class LoginController extends Controller
     public function username(){
         return 'username';
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 810bf2e8175d9fcb844ff96a3312b410414f8540
